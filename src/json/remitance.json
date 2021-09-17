@@ -1,0 +1,37 @@
+[
+    {
+        "name" : "Western Union",
+        "image" : "assets/img/remitance/",
+        "description" : "here"
+    },  
+    {
+        "name" : "Samsara",
+        "image" : "assets/img/remitance/",
+        "description" : "here"
+    },  
+    {
+        "name" : "City Express",
+        "image" : "assets/img/remitance/",
+        "description" : "here"
+    },  
+    {
+        "name" : "Prabhu",
+        "image" : "assets/img/remitance/",
+        "description" : "here"
+    },  
+    {
+        "name" : "IME",
+        "image" : "assets/img/remitance/",
+        "description" : "here"
+    },  
+    {
+        "name" : "Himal",
+        "image" : "assets/img/remitance/",
+        "description" : "here"
+    },  
+    {
+        "name" : "Hulas",
+        "image" : "assets/img/remitance/",
+        "description" : "here"
+    }   
+]

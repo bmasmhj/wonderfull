@@ -1,0 +1,74 @@
+[
+    {
+        "post" : "Chairman",
+        "image" : "assets/img/members/bijay.jpg", 
+        "name" : "Mr. Bijay Maharjan",
+        "address" : "Sunakothi -1, Lalitpur ",
+        "contact" : "9851089245",
+        "color" : "#ff0459",
+        "time" : "500",
+        "icon" : "fal fa-chair-office"
+    },
+    {
+        "post" : "V. Chairman", 
+        "image" : "assets/img/members/lorempic.jpg", 
+        "name" : "Mr Ramesh Maharjan",
+        "address" : "Sunakothi -5, Lalitpur ",
+        "contact" : "9841440206",
+        "color" : "#ff0459",
+        "time" : "1000",
+        "icon" : "fal fa-chair-office"
+    },
+    {
+        "post" : "Tresurer", 
+        "image" : "assets/img/members/rabindra.jpg", 
+        "name" : "Mr Rabindra Maharjan",
+        "address" : "Sunakothi -3, Lalitpur ",
+        "contact" : "984176507",
+        "color" : "#d58c0e",
+        "time" : "1500",
+        "icon" : "fas fa-treasure-chest"
+    },
+ 
+    {
+        "post" : "Secretary", 
+        "image" : "assets/img/members/laxmi.jpg", 
+        "name" : "Mrs. Laxmi Devi Maharjan",
+        "address" : "Sunakothi -7, Lalitpur ",
+        "contact" : "9841627488",
+        "color" : "#ce17f4",
+        "time" : "500",
+        "icon" : "fal fa-briefcase"
+
+    },
+    {
+        "post" : "Member", 
+        "image" : "assets/img/members/lorempic.jpg", 
+        "name" : "Mr Sakti Maharjan ",
+        "address" : "Sunakothi -4, Lalitpur ",
+        "contact" : "9849132812",
+        "color" : "#17a2b8",
+        "time" : "1000",
+        "icon" : "fal fa-briefcase"
+    },
+    {
+        "post" : "Member", 
+        "image" : "assets/img/members/krishnagopal.jpg", 
+        "name" : "Mr Krishna Gopal Maharjan",
+        "address" : "Sunakothi -5, Lalitpur ",
+        "contact" : "9841400597",
+        "color" : "#17a2b8",
+        "time" : "1000",
+        "icon" : "fal fa-user-tie"
+    },
+    {
+        "post" : "Member", 
+        "image" : "assets/img/members/lorempic.jpg", 
+        "name" : " Mr Raghu Maharjan",
+        "address" : "Sunakothi -7, Lalitpur ",
+        "contact" : "9841478141",
+        "color" : "#17a2b8",
+        "time" : "1500",
+        "icon" : "fal fa-user-tie"
+    }
+]

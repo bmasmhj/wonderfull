@@ -1,0 +1,28 @@
+[
+    {
+        "title" : "Savings",
+        "img" : "assets/img/saving.jpg",
+        "links" : "",
+        "detail" : "WMCS offers several accounts and deposit schemes with attractive interest rates and flexible options. Our account types are tailor-made and facilitate the needs of everyone. Open account of your choice, get competitive interest rates, and operate your deposits safely and smoothly."
+    },
+    {
+        "title" : "Loan",
+        "img" : "assets/img/loan.jpg",
+        "links" : "",
+        "detail" : "We offer different types of loans including  Business Loan Hire-purchase Loan , Education Loan , Special Project Financing , Loan against Fixed Deposit. Our term loans are competitive in interest rates, offer smooth procedure, and provides support through all channels with affordable administrative fee."
+
+    },
+    {
+        "title" : "Remittance",
+        "img" : "assets/img/remittance.jpg",
+        "links" : "",
+        "detail" : "We Deal Remittance from any part of world. Modern Money Express , City Express Money Transfer ,  Prabhu Money Transfer, IME Limited , MoneyGram , IME Group"
+
+    },
+    {
+        "title" : "Card",
+        "img" : "assets/img/imecard.jpg",
+        "links" : "",
+        "detail" : "We provice you IME Remittance card. IME card makes you easier and faster to take money."
+    }
+]
