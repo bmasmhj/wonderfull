@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Wonderful/static/css/main.c44cd76a.chunk.css",
+    "main.js": "/Wonderful/static/js/main.eb761fdf.chunk.js",
+    "main.js.map": "/Wonderful/static/js/main.eb761fdf.chunk.js.map",
+    "runtime-main.js": "/Wonderful/static/js/runtime-main.31888f38.js",
+    "runtime-main.js.map": "/Wonderful/static/js/runtime-main.31888f38.js.map",
+    "static/js/2.ce624887.chunk.js": "/Wonderful/static/js/2.ce624887.chunk.js",
+    "static/js/2.ce624887.chunk.js.map": "/Wonderful/static/js/2.ce624887.chunk.js.map",
+    "static/js/3.968e3775.chunk.js": "/Wonderful/static/js/3.968e3775.chunk.js",
+    "static/js/3.968e3775.chunk.js.map": "/Wonderful/static/js/3.968e3775.chunk.js.map",
+    "index.html": "/Wonderful/index.html",
+    "static/css/main.c44cd76a.chunk.css.map": "/Wonderful/static/css/main.c44cd76a.chunk.css.map",
+    "static/js/2.ce624887.chunk.js.LICENSE.txt": "/Wonderful/static/js/2.ce624887.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31888f38.js",
+    "static/js/2.ce624887.chunk.js",
+    "static/css/main.c44cd76a.chunk.css",
+    "static/js/main.eb761fdf.chunk.js"
+  ]
+}
